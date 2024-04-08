@@ -1,5 +1,5 @@
-### a very quick and scuffed writeup for some of TamuCTF 2024 pwn challenges.
-# no shellcoding is allowed here 😤
+## a very quick and scuffed writeup for some of TamuCTF 2024 pwn challenges.
+### no shellcoding is allowed here 😤
 
 * [admin](/admin-panel/README.md)
 * [confinement](/confinement/README.md)
