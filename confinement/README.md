@@ -1,2 +1,3 @@
 the idea of this is to leak the flag bit by bit . for example the letter **S** in binary is **01010011** , we gonna leak the bits one by one . but how ? we gonna make use of this comparison**if (ret != 0)** . if the child process exit code is != 0 , then we gonna get **"something went wrong D:"** in stdout , if not then we get **"adios"** . so we gonna return every bit of the value we wanna leak as exit code . that way we can know whether its a 0 or 1 ? (not a Mr Robot reference xD)
+
 the script might take same trials in remote as a single failure (due to internet most probably) could mess up the entire thing . 

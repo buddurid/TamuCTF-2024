@@ -8,4 +8,4 @@
 * [shrink](/shrink/README.md)
 * [super-lucky](/super-lucky/README.md)
 
-didnt have a look at index so if i managed to do it locally i will update.
+didnt have a look at index so if i managed to do it locally i will update. 
